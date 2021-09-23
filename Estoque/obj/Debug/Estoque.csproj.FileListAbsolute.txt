@@ -1,0 +1,11 @@
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\bin\Debug\Estoque.exe.config
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\bin\Debug\Estoque.exe
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\bin\Debug\Estoque.pdb
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\obj\Debug\Estoque.csprojAssemblyReference.cache
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\obj\Debug\Estoque.Form1.resources
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\obj\Debug\Estoque.Form2.resources
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\obj\Debug\Estoque.Properties.Resources.resources
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\obj\Debug\Estoque.csproj.GenerateResource.cache
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\obj\Debug\Estoque.exe
+C:\Users\Devi Tecnologia\source\repos\Estoque\Estoque\obj\Debug\Estoque.pdb
